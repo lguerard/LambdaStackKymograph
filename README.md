@@ -28,4 +28,3 @@ The X axis will correspond to the wavelengths found in the metadata. The plugin 
 * A CSV with normalized pixel intensities corresponding to the ROI
 
 
-[![DOI](https://zenodo.org/badge/75272895.svg)](https://zenodo.org/badge/latestdoi/75272895)
