@@ -1,4 +1,4 @@
-# Hyperstack
+# Hyperspace
 
 Plugin coded to allow analysis of lambda stack in ImageJ.
 
