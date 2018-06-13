@@ -18,9 +18,9 @@ Then start the plugin. A MIP image will be presented and asking you to do a line
 
 Once done, click OK and you will get the hyperspectral image corresponding to the ROI selected.
 
-<!-- ![Result](images/Hyperspace_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
+<!-- ![Result](images/Hyperstack_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
 
-<img src="images/Hyperspace_Ag17_5_Image%20calculator.1_b1_p1ROI1.png" width="300">
+<img src="images/Hyperstack_Ag17_5_Image%20calculator.1_b1_p1ROI1.png" width="300">
 
 The X axis will correspond to the wavelengths found in the metadata. The plugin will also save:
 
