@@ -1,4 +1,4 @@
-# Hyperstack
+# Lambda Stack Kymograph
 
 Plugin coded to allow analysis of lambda stack in ImageJ.
 
