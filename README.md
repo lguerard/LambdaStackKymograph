@@ -16,7 +16,7 @@ Then start the plugin. A MIP image will be presented and asking you to do a line
 
 <!--![Selection](images/MAX_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
 
-Once done, click OK and you will get the hyperspectral image corresponding to the ROI selected.
+Once done, click OK and you will get the kymograph corresponding to the ROI selected.
 
 <!-- ![Result](images/Hyperstack_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
 
