@@ -144,7 +144,7 @@ while(os.path.isfile(overlayOutput + ".png")):
     fileName      = shortTitle + "ROI" + str(num)
     overlayOutput = os.path.join(output,"MAX_"+fileName)
 
-hyperstackImage = os.path.join(output,"Hyperstack_"+fileName)
+LSKImage = os.path.join(output,"LSK"+fileName)
 outputCSV = os.path.join(output,fileName)
 
 IJ.run("Add Selection...")
