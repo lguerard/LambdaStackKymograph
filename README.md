@@ -10,17 +10,11 @@ In order to use it, first open the lambda stack using BioFormats.
 
 Then start the plugin. A MIP image will be presented and asking you to do a line selection corresponding to the region of interest.
 
-<img src="images/LambdaStack.png" width="300"> <img src="images/MAX_Ag17_5_Image%20calculator.1_b1_p1ROI1.png" width="300">
-
-<!--![Lambda Stack](images/LambdaStack.png) -->
-
-<!--![Selection](images/MAX_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
+<img src="images/LambdaStack.png" width="300"> <img src="images/MAX_LSK.png" width="300">
 
 Once done, click OK and you will get the kymograph corresponding to the ROI selected.
 
-<!-- ![Result](images/Hyperstack_Ag17_5_Image%20calculator.1_b1_p1ROI1.png) --> 
-
-<img src="images/Hyperstack_Ag17_5_Image%20calculator.1_b1_p1ROI1.png" width="300">
+<img src="images/LSK_Result.png" width="300">
 
 The X axis will correspond to the wavelengths found in the metadata. The plugin will also save:
 
