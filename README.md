@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.1291706"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1291706.svg" alt="DOI"></a>
+
 # Lambda Stack Kymograph
 
 Plugin coded to allow analysis of lambda stack in ImageJ.
@@ -20,6 +22,3 @@ The X axis will correspond to the wavelengths found in the metadata. The plugin 
 
 * A CSV with the pixel intensities corresponding to the ROI
 * A CSV with normalized pixel intensities corresponding to the ROI
-
-
-<a href="https://doi.org/10.5281/zenodo.1291706"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1291706.svg" alt="DOI"></a>
